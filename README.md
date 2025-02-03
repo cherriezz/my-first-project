@@ -2,8 +2,8 @@ My first project on github
 
 #include<stdio.h>
 int main(){
-
  int num1,num2,choice, result;
+ 
  do{
     printf("\nWelcome Charitha\n\n");
     printf("1.Select one for Addition\n");
@@ -54,7 +54,7 @@ int main(){
             printf("Invalid!");
         }
  }
+ 
  while(1);
         return 0;
-
     }
